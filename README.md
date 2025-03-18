@@ -6,3 +6,6 @@ EditText view using BAIDU OCR and the user could slightly modify the content if 
 the user would be asked to select or create a new category for this quiz and the text
 would be generated into a quiz in a certain category. Then the user could access
 different categories of quizlets and retake the MCQs.
+
+Demo video at:
+https://share.weiyun.com/f5tuoqgf
